@@ -26,8 +26,9 @@ Here are some readings
 Dataset
 
 [Flickr8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
+
 ## Results
-<img align="right" height="120" src="https://github.com/victorgearhead/Image_Captioning/blob/main/SCs/Screenshot%202024-06-17%20155744.png"  />
+
 ![Screenshot](https://github.com/victorgearhead/Image_Captioning/blob/main/SCs/Screenshot%202024-06-17%20155744.png)
 
 ![Screenshot](https://github.com/victorgearhead/Image_Captioning/blob/main/SCs/Screenshot%202024-06-17%20155805.png)
